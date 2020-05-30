@@ -1,0 +1,2 @@
+# SzarekBOT
+ Discord
